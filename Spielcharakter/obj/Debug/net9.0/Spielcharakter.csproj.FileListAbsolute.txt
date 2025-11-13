@@ -1,0 +1,15 @@
+C:\Users\tn\desktop\C#\Spielcharakter\bin\Debug\net9.0\Spielcharakter.exe
+C:\Users\tn\desktop\C#\Spielcharakter\bin\Debug\net9.0\Spielcharakter.deps.json
+C:\Users\tn\desktop\C#\Spielcharakter\bin\Debug\net9.0\Spielcharakter.runtimeconfig.json
+C:\Users\tn\desktop\C#\Spielcharakter\bin\Debug\net9.0\Spielcharakter.dll
+C:\Users\tn\desktop\C#\Spielcharakter\bin\Debug\net9.0\Spielcharakter.pdb
+C:\Users\tn\desktop\C#\Spielcharakter\obj\Debug\net9.0\Spielcharakter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tn\desktop\C#\Spielcharakter\obj\Debug\net9.0\Spielcharakter.AssemblyInfoInputs.cache
+C:\Users\tn\desktop\C#\Spielcharakter\obj\Debug\net9.0\Spielcharakter.AssemblyInfo.cs
+C:\Users\tn\desktop\C#\Spielcharakter\obj\Debug\net9.0\Spielcharakter.csproj.CoreCompileInputs.cache
+C:\Users\tn\desktop\C#\Spielcharakter\obj\Debug\net9.0\Spielcharakter.sourcelink.json
+C:\Users\tn\desktop\C#\Spielcharakter\obj\Debug\net9.0\Spielcharakter.dll
+C:\Users\tn\desktop\C#\Spielcharakter\obj\Debug\net9.0\refint\Spielcharakter.dll
+C:\Users\tn\desktop\C#\Spielcharakter\obj\Debug\net9.0\Spielcharakter.pdb
+C:\Users\tn\desktop\C#\Spielcharakter\obj\Debug\net9.0\Spielcharakter.genruntimeconfig.cache
+C:\Users\tn\desktop\C#\Spielcharakter\obj\Debug\net9.0\ref\Spielcharakter.dll
